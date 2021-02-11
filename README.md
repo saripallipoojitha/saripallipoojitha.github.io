@@ -2,7 +2,7 @@
 ## Educational Details
 **Branch,Year:CST,1ST year
 **College Name:** Sri Vasavi Engineering College
-## Skills:##
+## Skills:
 - C programming
 - Version Control System
 ## Certification:
